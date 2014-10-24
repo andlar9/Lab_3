@@ -7,4 +7,5 @@ int main()
     cout<<"\n"<<"Enter second number ";
     cin>>m;
     cout<<"\n"<<"sum numbers "<< n+m < "\n" ;
+    cout<<"\n"<<"dif numbers "<< n-m < "\n";
 }
