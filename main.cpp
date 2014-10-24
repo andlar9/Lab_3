@@ -1,5 +1,6 @@
 #include "sdt.h"
 //Program is educational.
+//Program is educational.
 int main()
 {
     int n,m;
