@@ -11,4 +11,5 @@ int main()
     cout<<"\n"<<"sum numbers "<< n+m < "\n" ;
     cout<<"\n"<<"dif numbers "<< n-m < "\n" ;
     cout<<"\n"<<"product numbers "<< n*m < "\n" ;
+    cout<<"\n"<<"division numbers "<< n/m < "\n" ;
 }
